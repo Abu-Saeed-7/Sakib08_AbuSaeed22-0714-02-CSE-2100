@@ -250,3 +250,4 @@ int load_events_from_csv(const char *filename, EventRecord **events) {
     *events = arr;
     return count;
 }
+
